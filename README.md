@@ -9,7 +9,7 @@ This project demonstrates the process of loading and transforming CSV data using
 * Crafted SQL queries to perform data preparation techniques on the data.
 * Performed cleansing on Excel and MySQL to produce accurate and useful data exports.
 
-![](images/E-Commerce Dashboard.png)
+![](https://github.com/tola923/portfolio/blob/main/images/E-Commerce%20Dashboard.png)
 
 ### [Project 2: Car Price Prediction:](https://github.com/tola923/Car_Price_Prediction)
 This project uses Python to develop a linear regression model that predicts the prices of used cars from various datasets, based on features such as the car's age, mileage and engine specifications.
@@ -18,4 +18,4 @@ This project uses Python to develop a linear regression model that predicts the 
 * Implemented Machine Learning techniques such as one-hot encoding for  prediction preparation.
 * Visualised relationships between variables within the dataset.
 
-![](images/corr plot.png)
+![](https://github.com/tola923/portfolio/blob/main/images/corr%20plot.png)
