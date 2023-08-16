@@ -1,4 +1,4 @@
-# Portfolio
+# Babatola Thompson
 Data Analysis Portfolio
 
 ### [Project 1: E-Commerce Sales Dashboard:](https://github.com/tola923/E_Commerce_Project)
